@@ -1,5 +1,5 @@
 {
-  "name": "razor-state-management",
+  "name": "razor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redux": "^4.0.5"
+    
   }
 }
