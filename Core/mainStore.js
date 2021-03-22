@@ -46,10 +46,10 @@ const createStore = (reducer, preloadedState) => {
     // when we get an action along with current state is passed to every reducer and override the reducers and final state is the summ of all the reducers
     /**
      * {
-     * videos: { data:[]}
+     * movies: { data:[]}
      * users: {data: []}
      * }
-     * videos(state, {type: ADD_VIDEO, payload})
+     * movies(state, {type: ADD_MOVIE, payload})
      * (state, action) => {
      * }
      */
