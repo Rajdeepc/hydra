@@ -1,5 +1,5 @@
-const movies = require('././../reducers/movies')
-const users = require('././../reducers/users')
+const movies = require('../reducers/movies')
+const users = require('../reducers/users')
 const { combineReducer } = require(redux);
 
 
