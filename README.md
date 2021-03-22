@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="" alt="logo">
+    <img src="https://github.com/Rajdeepc/razor/blob/master/github/razor.jpg?raw=true" alt="logo">
 </div>
 
-# Razor - A State Management Library
+# Razor - A State Management Library for the web
 
 Introducing yet another state management library written by and maintained by me.
 The project started as a learning project ot understand the depth and roots of redux and flux. Digging deep into the core files of these libraries I started writing my own state management library which is smaller yet powerful..
