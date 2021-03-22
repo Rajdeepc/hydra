@@ -7,6 +7,9 @@ You can use this code as a learning material to understand the redux codebase ho
 
 I will scale this up as time permists. In the mean time if someone wants to contribute to this project feel free to open a PR.
 
+TODO:
+1 Create combineReducer polyfill
+
 ## Download and installation instructions - Coming Soon
 
 License: MIT
