@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="" alt="logo">
+</div>
+
 # Razor - A State Management Library
 
 Introducing yet another state management library written by and maintained by me.
