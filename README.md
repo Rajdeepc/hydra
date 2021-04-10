@@ -11,7 +11,7 @@ You can use this code as a learning material to understand the redux codebase ho
 
 I will scale this up as time permists. In the mean time if someone wants to contribute to this project feel free to open a PR.
 
-**TODO:**<br>
+**RoadMap:**<br>
 1 — createStore() - Done<br>
 2 — combineReducers(), <br>
 3 — Provider and <br>
