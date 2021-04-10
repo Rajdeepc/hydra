@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Rajdeepc/razor/blob/master/github/razor.jpg?raw=true" alt="logo">
+    <img src="https://github.com/Rajdeepc/razor/blob/master/github/hydra.jpg?raw=true" alt="logo">
 </div>
 
 # Hydra - The simplest State Management Library for React
