@@ -44,15 +44,6 @@ const createStore = (reducer, preloadedState) => {
     // whenver we get an action of type and payload, this action is passed to every part of the state
     // every action has a reducer function
     // when we get an action along with current state is passed to every reducer and override the reducers and final state is the summ of all the reducers
-    /**
-     * {
-     * movies: { data:[]}
-     * users: {data: []}
-     * }
-     * movies(state, {type: ADD_MOVIE, payload})
-     * (state, action) => {
-     * }
-     */
 
     // validations
     if (typeof action !== "object")
