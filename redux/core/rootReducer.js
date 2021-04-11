@@ -1,5 +1,5 @@
-const movies = require('../reducers/movies')
-const users = require('../reducers/users')
+const movies = require('../../test_reducers/movies')
+const users = require('../../test_reducers/users')
 const { combineReducer } = require('./combineReducers/index');
 
 

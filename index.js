@@ -1,5 +1,5 @@
-const { createStore } = require('./core/store/index');
-const rootReducer = require('./core/rootReducer');
+const { createStore } = require('./redux/core/store/index');
+const rootReducer = require('./redux/core/rootReducer');
 
 const initialState = {
     data: [
