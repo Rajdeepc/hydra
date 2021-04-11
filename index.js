@@ -1,4 +1,4 @@
-const { createStore } = require('./core/index');
+const { createStore } = require('./core/store/index');
 const rootReducer = require('./core/rootReducer');
 
 const initialState = {
