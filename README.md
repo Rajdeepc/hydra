@@ -15,7 +15,6 @@ Will be working on this for the next couple of month to minify the pitfalls of R
 
 ## RoadMap
  * Provider
- * connect()
 
 ## Download and installation instructions 
 Coming Soon
